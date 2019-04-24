@@ -1,0 +1,44 @@
+.main{
+  padding: 20px;
+}
+
+.title {
+  font-size: 12px;
+  border: 1px solid #979797;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+.title_english {
+  font-size: 10px;
+  padding-left: 15px;
+  vertical-align: middle;
+}
+
+li {
+  list-style: none;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  font-size: 12px;
+  border-bottom: 1px solid #979797
+}
+
+ul{
+  padding-left : 0px;
+}
+
+
+.placements{
+  margin-left: 40px;
+  padding: 3px;
+  border: 1px solid #979797;
+  border-radius: 5px;
+}
+
+.type{
+  margin-left: 10px;
+}
+
+.number{
+  margin-left: 10px;
+}
